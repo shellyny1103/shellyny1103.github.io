@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in Chemsitry, Haverford College, 2026
+* M.S. in Chemical and Biological Engineering, University of Pennsylvania, 2027 (Expected)
+* B.S. in Chemsitry and Math, Haverford College, 2026(Expected)
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
