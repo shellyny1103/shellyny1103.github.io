@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Personal Website for Xuelin(Shellyn) Yang"
+title: "Xuelin(Shellyn) Yang"
 author_profile: true
 redirect_from: 
   - /about/
